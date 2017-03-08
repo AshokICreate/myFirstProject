@@ -17,7 +17,7 @@ export default class myFirstProject extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          I am in Test branch
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
